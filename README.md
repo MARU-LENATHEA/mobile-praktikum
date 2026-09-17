@@ -49,3 +49,4 @@ Pastikan Flutter SDK sudah terpasang pada komputer Anda. Jalankan perintah berik
 1. Unduh pustaka ketergantungan (*dependencies*):
    ```bash
    flutter pub get
+   flutter run
